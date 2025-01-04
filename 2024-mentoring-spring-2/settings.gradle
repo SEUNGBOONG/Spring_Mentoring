@@ -1,0 +1,5 @@
+rootProject.name = 'mission'
+include 'mission-racing'
+include 'mission-lotto'
+include 'mission-board'
+
